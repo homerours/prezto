@@ -14,14 +14,14 @@
 
 # Color output (auto set to 'no' on dumb terminals).
 zstyle ':prezto:*:*' color 'yes'
-<<<<<<< HEAD
+#<<<<<<< HEAD
 zstyle ':prezto:module:utility:ls' color 'yes'
-=======
+#=======
 
 # Add additional directories to load prezto modules from
 # zstyle ':prezto:load' pmodule-dirs $HOME/.zprezto-contrib
 
->>>>>>> 1d58546406bc8f13b910141265f67dbe2f08bd5f
+#>>>>>>> 1d58546406bc8f13b910141265f67dbe2f08bd5f
 # Set the Zsh modules to load (man zshmodules).
 # zstyle ':prezto:load' zmodule 'attr' 'stat'
 
